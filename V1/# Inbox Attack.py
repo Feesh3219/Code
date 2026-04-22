@@ -1,4 +1,5 @@
-# Inbox Attack, Software Engineering Assignment
+
+# Inbox Attack V3
 
 # class parent class message
 # Stores basic details of a message - sender, content, and whether it's a scam or not
