@@ -29,7 +29,7 @@ class ScamMessage(Message):
         print(f"HINT: {self.warning}")
 
 
-# SafeMessage inherits from Message - no extra behaviour needed
+# SafeMessage inherits from Message
 # Explanation is for the reason its safe
 class SafeMessage(Message):
     def __init__(self, sender, content, explanation):
